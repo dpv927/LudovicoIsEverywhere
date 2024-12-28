@@ -31,7 +31,7 @@
 | [Rotten Beggar](https://bindingofisaacrebirth.fandom.com/wiki/Rotten_Beggar_(Item_Pool))              |
 | [Mom's Chest](https://bindingofisaacrebirth.fandom.com/wiki/Mom%27s_Chest_(Item_Pool))                |
 
-### Affected Item Pools:
+### Affected item pools:
 | Item Pool                                                                                           |
 |-----------------------------------------------------------------------------------------------------|
 | [Treasure Room](https://bindingofisaacrebirth.fandom.com/wiki/Treasure_Room_(Item_Pool))            |
