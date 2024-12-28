@@ -54,7 +54,7 @@ function LIE:tryIsaacTalk()
         else
             position.X = position.X - 40
 	        position.Y = position.Y - 80
-            message = "Hell yes!"
+            message = "Hell yeah!"
         end
 
         local renderpos = Isaac.WorldToScreen(position)
